@@ -1,0 +1,6 @@
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\proverka char\bin\Debug\proverka char.exe.config
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\proverka char\bin\Debug\proverka char.exe
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\proverka char\bin\Debug\proverka char.pdb
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\proverka char\obj\Debug\proverka char.exe
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\proverka char\obj\Debug\proverka char.pdb
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\proverka char\obj\Debug\proverka char.csprojResolveAssemblyReference.cache

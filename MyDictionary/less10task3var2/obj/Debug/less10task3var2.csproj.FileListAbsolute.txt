@@ -1,0 +1,9 @@
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3var2\bin\Debug\less10task3var2.exe.config
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3var2\bin\Debug\less10task3var2.exe
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3var2\bin\Debug\less10task3var2.pdb
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3var2\obj\Debug\less10task3var2.exe
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3var2\obj\Debug\less10task3var2.pdb
+C:\Users\Katuha\Documents\Visual Studio 2015\Projects\OOP\less10task3\less10task3var2\obj\Debug\less10task3var2.csprojResolveAssemblyReference.cache
+C:\Users\Katuha\Desktop\GIT_Repository\less10task3\less10task3var2\bin\Debug\less10task3var2.exe.config
+C:\Users\Katuha\Desktop\GIT_Repository\less10task3\less10task3var2\obj\Debug\less10task3var2.exe
+C:\Users\Katuha\Desktop\GIT_Repository\less10task3\less10task3var2\obj\Debug\less10task3var2.pdb

@@ -1,0 +1,9 @@
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3\bin\Debug\less10task3.exe.config
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3\bin\Debug\less10task3.exe
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3\bin\Debug\less10task3.pdb
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3\obj\Debug\less10task3.csprojResolveAssemblyReference.cache
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3\obj\Debug\less10task3.exe
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less10task3\less10task3\obj\Debug\less10task3.pdb
+C:\Users\Katuha\Desktop\GIT_Repository\less10task3\less10task3\bin\Debug\less10task3.exe.config
+C:\Users\Katuha\Desktop\GIT_Repository\less10task3\less10task3\obj\Debug\less10task3.exe
+C:\Users\Katuha\Desktop\GIT_Repository\less10task3\less10task3\obj\Debug\less10task3.pdb

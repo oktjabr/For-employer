@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "less15task2", "less15task2\less15task2.csproj", "{FB001538-1ACB-44C0-844C-56387941AE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proverka char", "proverka char\proverka char.csproj", "{9ED9949F-BD32-4321-BFF7-394C17AF0B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "less6task4var2", "..\less6task4\less6task4var2\less6task4var2.csproj", "{4D85C122-6341-445A-BF86-1DA06B081CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB001538-1ACB-44C0-844C-56387941AE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB001538-1ACB-44C0-844C-56387941AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB001538-1ACB-44C0-844C-56387941AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB001538-1ACB-44C0-844C-56387941AE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED9949F-BD32-4321-BFF7-394C17AF0B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED9949F-BD32-4321-BFF7-394C17AF0B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED9949F-BD32-4321-BFF7-394C17AF0B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED9949F-BD32-4321-BFF7-394C17AF0B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D85C122-6341-445A-BF86-1DA06B081CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D85C122-6341-445A-BF86-1DA06B081CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D85C122-6341-445A-BF86-1DA06B081CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D85C122-6341-445A-BF86-1DA06B081CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

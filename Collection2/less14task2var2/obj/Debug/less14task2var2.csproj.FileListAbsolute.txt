@@ -1,0 +1,5 @@
+C:\Users\Katuha\Documents\Visual Studio 2015\Projects\OOP\less14task2\less14task2var2\bin\Debug\less14task2var2.exe.config
+C:\Users\Katuha\Documents\Visual Studio 2015\Projects\OOP\less14task2\less14task2var2\bin\Debug\less14task2var2.exe
+C:\Users\Katuha\Documents\Visual Studio 2015\Projects\OOP\less14task2\less14task2var2\bin\Debug\less14task2var2.pdb
+C:\Users\Katuha\Documents\Visual Studio 2015\Projects\OOP\less14task2\less14task2var2\obj\Debug\less14task2var2.exe
+C:\Users\Katuha\Documents\Visual Studio 2015\Projects\OOP\less14task2\less14task2var2\obj\Debug\less14task2var2.pdb

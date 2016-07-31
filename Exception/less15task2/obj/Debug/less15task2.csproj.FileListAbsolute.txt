@@ -1,0 +1,6 @@
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\less15task2\bin\Debug\less15task2.exe.config
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\less15task2\bin\Debug\less15task2.exe
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\less15task2\bin\Debug\less15task2.pdb
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\less15task2\obj\Debug\less15task2.csprojResolveAssemblyReference.cache
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\less15task2\obj\Debug\less15task2.exe
+c:\users\katuha\documents\visual studio 2015\Projects\OOP\less15task2\less15task2\obj\Debug\less15task2.pdb

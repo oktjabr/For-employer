@@ -1,0 +1,9 @@
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less6task4\less6task4var2\bin\Debug\less6task4var2.exe.config
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less6task4\less6task4var2\obj\Debug\less6task4var2.csprojResolveAssemblyReference.cache
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less6task4\less6task4var2\bin\Debug\less6task4var2.exe
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less6task4\less6task4var2\bin\Debug\less6task4var2.pdb
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less6task4\less6task4var2\obj\Debug\less6task4var2.exe
+C:\Users\Katuha\documents\visual studio 2015\Projects\OOP\less6task4\less6task4var2\obj\Debug\less6task4var2.pdb
+C:\Users\Katuha\Desktop\GIT_Repository\less6task4\less6task4var2\bin\Debug\less6task4var2.exe.config
+C:\Users\Katuha\Desktop\GIT_Repository\less6task4\less6task4var2\obj\Debug\less6task4var2.exe
+C:\Users\Katuha\Desktop\GIT_Repository\less6task4\less6task4var2\obj\Debug\less6task4var2.pdb
